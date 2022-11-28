@@ -5,9 +5,9 @@ import pandas as pd
 import streamlit as st
 
 """
-# Welcome to Streamlit!
+# 赛博死亡!
 
-Edit `/streamlit_app.py` to customize this app to your heart's desire :heart:
+随着人们试用电子产品的频率增加， `/streamlit_app.py` to customize this app to your heart's desire :heart:
 
 If you have any questions, checkout our [documentation](https://docs.streamlit.io) and [community
 forums](https://discuss.streamlit.io).
